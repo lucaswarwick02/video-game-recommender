@@ -1,5 +1,5 @@
 # Video Game Recommender
-![SNES Controller](/resources/header.png)
+<img src="/resources/header.png" width="300" />
 
 ## Database 
 The data which I am using is from a website called [Kaggle](https://www.kaggle.com/, "Kaggle"), which has free to use databases for numerous projects.
